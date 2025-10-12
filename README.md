@@ -6,4 +6,4 @@ Qt code
     NSWindow *nsWindow = view.window;
     [nsWindow setCollectionBehavior:NSWindowCollectionBehaviorFullScreenAuxiliary];
 ```
-[效果](https://juejin.cn/spost/7557178969645269007))
+[效果](https://juejin.cn/spost/7557178969645269007)
